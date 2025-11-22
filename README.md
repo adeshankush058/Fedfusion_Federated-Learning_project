@@ -27,7 +27,7 @@ Stress detection systems usually require centralizing sensitive biometric data, 
 `pip install -r requirements.txt`
 
 ##  Usage
-### data perprocessing 
+### data preprocessing 
 `data_preprocessing.ipymb`
 
 ### Start model traning
